@@ -1,0 +1,6 @@
+{
+  "homepage": "https://palina-pauliuchenka.github.io/cs450/",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
